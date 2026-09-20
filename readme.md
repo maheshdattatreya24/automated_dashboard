@@ -2,7 +2,7 @@
 
 🚀 **Live Application:**  
 👉 https://automateddashboard-83appiym652zfwp5ovakyba.streamlit.app
-   
+
 ---          
 
 ## 📌 Project Overview
